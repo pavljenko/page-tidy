@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+
+# Генерируются make-icons.py, нужны только для страницы в каталоге
+store-icon-128.png
+promo-tile-440x280.png
